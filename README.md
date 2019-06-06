@@ -23,6 +23,32 @@ The levels should also clearly state what benefits or value they bring. Why shou
 
 ## DevSecOps domains and aspects
 
+- People
+    - Skills
+        - Step 0: Knowledge of development, operations and security practices
+    - Roles & Responsibilities
+        - Step 0: Development, operations, application security, QA/Testing
+    - Culture
+        - Step 0: Good communication, collaboration and knowledge sharing
+- Processes
+    - Risk Management
+        - Step 0: Risk rating mechanism
+    - Findings Generation
+        - Step 0: Security requirements
+    - Continuous Feedback
+        - Step 0: Issue Tracking process
+    - Central Policy Management
+        - Step 0: Repositories and version control
+- Technology
+    - Infrastructure
+        - Step 0: Automated
+    - Tools
+        - Step 0: API driven
+    - Programming Language / Framework
+        - Step 0: Tool compatibility
+    
+### TODO: Better mapping structure    
+
 | Domain        | Aspect        | Step 0  | Step 1  | Step 2  | Step 3  |
 | :-------------: |-------------|    -----|    -----|    -----|    -----|
 | People        |  Culture             |         |         |         |         |
